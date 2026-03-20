@@ -1,7 +1,6 @@
 ---
-# CI/CD Pipeline for Node.js Web App on AWS EC2  
-*(Created Manually via AWS Console – Full IAM Included)*
 
+# CI/CD Pipeline for Node.js Web App on AWS EC2  
 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
